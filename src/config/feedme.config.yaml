@@ -282,3 +282,11 @@ sources:
       en: Lex Fridman Podcast
     url: https://lexfridman.com/feed/podcast/
     category: podcasts
+  - id: "semiengineering"
+    name: "SemiEngineering"
+    url: "https://semiengineering.com/feed/"
+    category: "半导体"
+  - id: "arxiv-quant-ph"
+    name: "arXiv quant-ph"
+    url: "http://export.arxiv.org/rss/quant-ph"
+    category: "量子"
